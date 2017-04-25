@@ -1,6 +1,6 @@
 # npmtest-react-native-drawer
 
-#### test coverage for  [react-native-drawer (v2.3.0)](https://github.com/rt2zz/react-native-drawer)  [![npm package](https://img.shields.io/npm/v/npmtest-react-native-drawer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-native-drawer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-native-drawer.svg)](https://travis-ci.org/npmtest/node-npmtest-react-native-drawer)
+#### basic test coverage for  [react-native-drawer (v2.3.0)](https://github.com/rt2zz/react-native-drawer)  [![npm package](https://img.shields.io/npm/v/npmtest-react-native-drawer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-native-drawer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-native-drawer.svg)](https://travis-ci.org/npmtest/node-npmtest-react-native-drawer)
 
 #### React Native Drawer
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-react-native-drawer/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-react-native-drawer/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-react-native-drawer/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-react-native-drawer/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-native-drawer/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-native-drawer/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-react-native-drawer/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-react-native-drawer/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-native-drawer/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-native-drawer/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-react-native-drawer/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-react-native-drawer/build/coverage.html/index.html)
 
@@ -85,7 +85,8 @@
         "url": "git+ssh://git@github.com/rt2zz/react-native-drawer.git"
     },
     "scripts": {},
-    "version": "2.3.0"
+    "version": "2.3.0",
+    "bin": {}
 }
 ```
 
